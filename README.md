@@ -1,3 +1,3 @@
-Launch:
-npm install
-npm run dev
+# Launch:
+# npm install
+# npm run dev
